@@ -37,6 +37,9 @@ We hope you find these prompts useful and have fun exploring AI chat models!
 **[View on prompts.chat](https://prompts.chat)**
 
 **[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
+
+**[TopFreePrompts](https://topfreeprompts.com)** - 10,000+ professional AI prompts with systematic training
+
 ---
 
 > ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected
